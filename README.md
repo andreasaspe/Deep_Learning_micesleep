@@ -7,6 +7,8 @@ Inside of the VAE-folder one can find the notebook containing the code fot the V
 
 Inside of 'preprocessed_data' you can find .npz files which contains data. For the VAE we have used the data file called experiment1.npz. For more information about data see article https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2003663&type=printable. This article desrices the mcRBM that we have implemented, but we are using the same data for both models and hence information about the data can be found here.
 
+
+
 ## Regarding mcRBM
 Inside the mcRBM-folder you will find the most important files for running this method. The model can be trained by running the bash-script 'run_gpu_v2.sh'. This will then call the trainModel.py file which again calls the function given in the file mcRBM.py. This last python-file contains the method itself.
 
