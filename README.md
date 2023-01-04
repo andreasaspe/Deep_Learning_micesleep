@@ -1,4 +1,7 @@
-# How to run the code
+# Code overview
+
+*Andreas With Aspe s174197*
+*Laura Rose s154347*
 
 This repository consists of our poster and our code. We have organised the code for both models in the folders called 'VAE' and 'mcRBM' respectively.
 
