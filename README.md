@@ -3,7 +3,9 @@
 *Andreas With Aspe s174197*  
 *Laura Rose s154347*
 
-This repository consists of our poster and our code. We have organised the code for both models in the folders called 'VAE' and 'mcRBM' respectively. Below is a guide for how to run the code.
+This repository consists of our poster and our code. We have organised the code for both models in the folders called 'VAE' and 'mcRBM' respectively.
+
+Below is a guide for how to run the code.
 
 ## Regarding VAE
 Inside of the VAE-folder one can find the notebook containing the code fot the VAE. This file is called 'VAE.ipynb'. There is also a folder called 'preprocessed_data', which contains the data. If you download the notebook and the folder and keep the same folder structure, it should be plug and play to run the VAE (given that all the packages are installed. The default settings are 3 latent features and beta = 1.
